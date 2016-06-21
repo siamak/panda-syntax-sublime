@@ -1,0 +1,15 @@
+{
+  "name": "sublime-panda-syntax",
+  "version": "0.1.0",
+  "description": "Panda syntax theme for Sublime Text 3.",
+  "keywords": [
+    "syntax",
+    "dark",
+    "sublime",
+    "theme"
+  ],
+  "repository": "https://github.com/siamak/sublime-panda-syntax",
+  "author": "Siamak Mokhtari <s.mokhtari75@gmail.com> (http://siamak.us)",
+  "homepage": "https://github.com/siamak/sublime-panda-syntax",
+  "license": "MIT"
+}
