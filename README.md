@@ -8,11 +8,28 @@ A _Superminimal_, _dark_ Syntax Theme. This is the latest version of the **Panda
 
 ---
 
-## ⌨️ Installation
+## Easy installation
+You can install this awesome theme through the [Package Control](https://packagecontrol.io/installation).
 
-• Move the directory inside your sublime Packages directory.
+1. Press <kbd>cmd/ctrl</kbd> + <kbd>shift</kbd> + <kbd>p</kbd> to open the command palette.
+2. Type _"install package"_ and press enter. Then search for _"Panda Syntax Sublime"_
 
-• Activte (`Preferences` > `Color Scheme` > `Panda`)
+
+## Manual installation
+
+1. Download the [latest release](https://github.com/siamak/panda-syntax-sublime/releases/latest), extract and rename the directory to **"Panda Syntax"**.
+2. Move the directory inside your sublime `Packages` directory. **(Preferences > Browse packages...)**
+
+
+## Activate the theme
+
+Open you preferences **(Preferences > Setting - User)** and add this lines:
+
+```json
+"color_scheme": "Packages/Panda Syntax/Panda/panda-syntax.tmTheme"
+```
+
+**NOTE:** Restart Sublime Text after activating the theme.
 
 <!-- 1. Go to `Setting > Install` and choose `Themes`
 2. Search for `panda-syntax-sublime` and install it.
