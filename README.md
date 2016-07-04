@@ -26,7 +26,7 @@ You can install this awesome theme through the [Package Control](https://package
 Open you preferences **(Preferences > Setting - User)** and add this lines:
 
 ```json
-"color_scheme": "Packages/Panda Syntax/Panda/panda-syntax.tmTheme"
+"color_scheme": "Packages/Panda Syntax Sublime/Panda/panda-syntax.tmTheme"
 ```
 
 **NOTE:** Restart Sublime Text after activating the theme.
