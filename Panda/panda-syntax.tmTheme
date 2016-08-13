@@ -422,13 +422,57 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>source.php source.php.embedded.block.html constant.other.php</string>
 			<key>scope</key>
-			<string>source .property-value.css parameter constant.numeric.css keyword.other.unit.css</string>
+			<string>source.php source.php.embedded.block.html constant.other.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFB86C</string>
+				<string>#19F9D8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>source.php source.php.embedded.block.html meta.class.php entity.name.type.class.php</string>
+			<key>scope</key>
+			<string>source.php source.php.embedded.block.html meta.class.php entity.name.type.class.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FF75B5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>source.php source.php.embedded.block.html variable.other.property.php</string>
+			<key>scope</key>
+			<string>source.php source.php.embedded.block.html variable.other.property.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFC990</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>source.php source.php.embedded.block.html keyword.control.php</string>
+			<key>scope</key>
+			<string>source.php source.php.embedded.block.html keyword.control.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6DB1FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>source.php source.php.embedded.block.html meta.class.php storage.modifier.abstract.php</string>
+			<key>scope</key>
+			<string>source.php source.php.embedded.block.html meta.class.php storage.modifier.abstract.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FF2C6D</string>
 			</dict>
 		</dict>
 	</array>
