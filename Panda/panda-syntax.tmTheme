@@ -574,6 +574,17 @@
 				<string>#6FC1FF</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>text.html.mt meta.tag.sgml.html meta.tag.sgml.doctype.html</string>
+			<key>scope</key>
+			<string>text.html.mt meta.tag.sgml.html meta.tag.sgml.doctype.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FF2C6D</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
